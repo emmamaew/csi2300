@@ -1,18 +1,7 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Assignment 14 JavaFX**
+In this app, I used parts of my code from assignment 3 (the metric converter app) to make an application with a simple GUI.
+Using JavaFX I implimented a GUI that will carry out conversions for: 
+1) Grams to Ounces
+2) Meters to Miles
+3) Yards to Feet
+4) Pounds to Grams
